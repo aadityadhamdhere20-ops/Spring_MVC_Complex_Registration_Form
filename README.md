@@ -72,11 +72,12 @@ src/test/java             → Test classes
 
 ▶️ How to Run
 Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-Import into Spring Tool Suite / Eclipse
-Configure Apache Tomcat Server
-Run the project
+Import into Spring Tool Suite or Eclipse IDE
+Configure Apache Tomcat server
+Run project on server
+
 Open browser:
+
 http://localhost:8080/
 
 ## 📸 Screenshots
