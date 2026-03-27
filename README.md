@@ -33,6 +33,7 @@ Error messages displayed on JSP pages
 Try-catch blocks for safe execution
 Prevents application crashes
 (Optional) Global exception handling using @ControllerAdvice
+
 🚀 Features
 📝 Complex registration form
 🔘 Multiple input fields (radio, checkbox, dropdown)
@@ -40,6 +41,7 @@ Prevents application crashes
 ⚠️ Error handling with messages
 🔗 Data binding using Spring MVC
 🧩 Clean layered architecture
+
 🛠️ Technologies Used
 Java
 Spring MVC
@@ -48,6 +50,7 @@ HTML, CSS
 Maven
 Apache Tomcat
 Spring Tool Suite / Eclipse IDE
+
 📂 Project Structure
 src/main/java
  ├── com.mvc.controller   → Controller Layer
@@ -66,6 +69,7 @@ src/main/webapp
  │    ├── web.xml
 
 src/test/java             → Test classes
+
 ▶️ How to Run
 Clone the repository
 git clone https://github.com/your-username/your-repo-name.git
